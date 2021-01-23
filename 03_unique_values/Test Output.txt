@@ -1,0 +1,204 @@
+TEST SET 1
+1 unique number
+===============
+
+Enter # 1 : 9
+The number entered is not in the valid range of 10 to 100
+
+Enter # 1 : 101
+The number entered is not in the valid range of 10 to 100
+
+Enter # 1 : 10
+The number: 10 is unique
+
+Enter # 2 : 10
+
+Enter # 3 : 10
+
+Enter # 4 : 10
+
+Enter # 5 : 10
+
+Enter # 6 : 10
+
+Enter # 7 : 10
+
+Enter # 8 : 10
+
+Enter # 9 : 10
+
+Enter # 10 : 10
+
+Enter # 11 : 10
+
+Enter # 12 : 10
+
+Enter # 13 : 10
+
+Enter # 14 : 10
+
+Enter # 15 : 10
+
+Enter # 16 : 10
+
+Enter # 17 : 10
+
+Enter # 18 : 10
+
+Enter # 19 : 10
+
+Enter # 20 : 10
+
+
+All of the unique numbers found are:
+
+        10
+
+TEST SET 2
+20 unique numbers
+=================
+
+Enter # 1 : 10
+The number: 10 is unique
+
+Enter # 2 : 20
+The number: 20 is unique
+
+Enter # 3 : 30
+The number: 30 is unique
+
+Enter # 4 : 9
+The number entered is not in the valid range of 10 to 100
+
+Enter # 4 : 101
+The number entered is not in the valid range of 10 to 100
+
+Enter # 4 : 40
+The number: 40 is unique
+
+Enter # 5 : 50
+The number: 50 is unique
+
+Enter # 6 : 60
+The number: 60 is unique
+
+Enter # 7 : 70
+The number: 70 is unique
+
+Enter # 8 : 80
+The number: 80 is unique
+
+Enter # 9 : 90
+The number: 90 is unique
+
+Enter # 10 : 100
+The number: 100 is unique
+
+Enter # 11 : 95
+The number: 95 is unique
+
+Enter # 12 : 85
+The number: 85 is unique
+
+Enter # 13 : 75
+The number: 75 is unique
+
+Enter # 14 : 65
+The number: 65 is unique
+
+Enter # 15 : 55
+The number: 55 is unique
+
+Enter # 16 : 45
+The number: 45 is unique
+
+Enter # 17 : 35
+The number: 35 is unique
+
+Enter # 18 : 25
+The number: 25 is unique
+
+Enter # 19 : 15
+The number: 15 is unique
+
+Enter # 20 : 11
+The number: 11 is unique
+
+
+All of the unique numbers found are:
+
+        10      20      30      40      50
+        60      70      80      90      100
+        95      85      75      65      55
+        45      35      25      15      11
+
+TEST SET 3
+A mix of unique and not unique numbers
+======================================
+
+Enter # 1 : 25
+The number: 25 is unique
+
+Enter # 2 : 25
+
+Enter # 3 : 50
+The number: 50 is unique
+
+Enter # 4 : 23
+The number: 23 is unique
+
+Enter # 5 : 95
+The number: 95 is unique
+
+Enter # 6 : 55
+The number: 55 is unique
+
+Enter # 7 : 50
+
+Enter # 8 : 9
+The number entered is not in the valid range of 10 to 100
+
+Enter # 8 : 85
+The number: 85 is unique
+
+Enter # 9 : 45
+The number: 45 is unique
+
+Enter # 10 : 25
+
+Enter # 11 : 97
+The number: 97 is unique
+
+Enter # 12 : 56
+The number: 56 is unique
+
+Enter # 13 : 56
+
+Enter # 14 : 33
+The number: 33 is unique
+
+Enter # 15 : 75
+The number: 75 is unique
+
+Enter # 16 : 95
+
+Enter # 17 : 35
+The number: 35 is unique
+
+Enter # 18 : 101
+The number entered is not in the valid range of 10 to 100
+
+Enter # 18 : 86
+The number: 86 is unique
+
+Enter # 19 : 100
+The number: 100 is unique
+
+Enter # 20 : 25
+
+
+All of the unique numbers found are:
+
+        25      50      23      95      55
+        85      45      97      56      33
+        75      35      86      100

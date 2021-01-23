@@ -1,0 +1,21 @@
+Enter the gallons used ( -1.0 to end ): -12.8
+You have entered an invalid value for gallons, try again: -13.8
+You have entered an invalid value for gallons, try again: 12.8
+Enter the miles driven: -287
+You have enter an invalid value for miles, try again: -288
+You have enter an invalid value for miles, try again: 287
+The miles/gallon for this tank was 22.421875
+
+Enter the gallons used ( -1.0 to end ): 10.3
+Enter the miles driven: 200
+The miles/gallon for this tank was 19.417475
+
+Enter the gallons used ( -1.0 to end ): 5
+Enter the miles driven: 120
+The miles/gallon for this tank was 24.000000
+
+Enter the gallons used ( -1.0 to end ): -1
+
+The overall average miles/gallon was 21.601423
+
+press any key to exit

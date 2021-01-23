@@ -1,0 +1,71 @@
+TEST #1
+=======
+
+Enter the first hour value (0-23): 0
+
+Enter the first minute value (0-59): 0
+
+Enter the first second value (0-59): 0
+
+Enter the second hour value (0-23): 23
+
+Enter the second minute value (0-59): 59
+
+Enter the second second value (0-59): 59
+
+The first input time converted into second is : 0
+The second input time converted into second is : 86399
+
+The difference in seconds between the two input times is: 86399
+
+
+
+
+TEST #2
+=======
+
+Enter the first hour value (0-23): 1
+
+Enter the first minute value (0-59): 1
+
+Enter the first second value (0-59): 1
+
+Enter the second hour value (0-23): 0
+
+Enter the second minute value (0-59): 0
+
+Enter the second second value (0-59): 0
+
+The first input time converted into second is : 3661
+The second input time converted into second is : 0
+
+The difference in seconds between the two input times is: 3661
+
+
+
+
+TEST #3
+=======
+
+Enter the first hour value (0-23): -1
+Invalid value entered, enter valid value between 0 and 23: 24
+Invalid value entered, enter valid value between 0 and 23: 10
+
+Enter the first minute value (0-59): -1
+Invalid value entered, enter valid value between 0 and 59: 60
+Invalid value entered, enter valid value between 0 and 59: 10
+
+Enter the first second value (0-59): -1
+Invalid value entered, enter valid value between 0 and 59: 60
+Invalid value entered, enter valid value between 0 and 59: 10
+
+Enter the second hour value (0-23): 20
+
+Enter the second minute value (0-59): 20
+
+Enter the second second value (0-59): 20
+
+The first input time converted into second is : 36610
+The second input time converted into second is : 73220
+
+The difference in seconds between the two input times is: 36610

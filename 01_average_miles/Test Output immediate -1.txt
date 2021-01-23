@@ -1,0 +1,4 @@
+Enter the gallons used ( -1.0 to end ): -1
+The overall average miles could not be computed :(
+
+press any key to exit
